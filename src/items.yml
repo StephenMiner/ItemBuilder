@@ -1,0 +1,11 @@
+items:
+  test:
+    material: DIAMOND_SWORD
+    display-name: '&6Test Name'
+    lore:
+      - '&6testlore'
+      - '&3did you say lore?'
+    enchantments:
+      unbreaking:
+        level: 2
+    unbreakable: true

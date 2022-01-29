@@ -1,0 +1,10 @@
+main: me.stephenminer.ItemBuilder.Main
+author: StephenMiner(Meep)
+version: BETA
+name: ItemBuilder
+description: A system to build custom items!
+api-version: 1.13
+commands:
+  itembuilder:
+    description: base for all cmds in plugin
+  createitem:
